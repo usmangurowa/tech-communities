@@ -5,4 +5,5 @@
 **Github Campus Experts**
 
 * **Description:** A group for Github Campus experts in Jalingo.
-* **Twitter:** [Twitter Profile](#"https://x.com/GCETSU")
+* **Twitter:** [GCETSU](https://x.com/GCETSU)
+* **Twitter:** <a name="GCETSU">https://x.com/GCETSU</a>
