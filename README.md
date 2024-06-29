@@ -7,6 +7,11 @@
 * **Description:** A group for Github Campus experts in Jalingo.
 * **Twitter:** [GCETSU](https://x.com/GCETSU)
 
+**GDG Jalingo**
+
+* **Description:** A google developer community Jalingo.
+* **Twitter:** [GDG](https://x.com/GDGDJALINGO)
+
 
 ***
 # How to contrbinute
