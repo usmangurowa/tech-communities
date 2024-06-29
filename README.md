@@ -13,6 +13,14 @@
 * **Twitter:** [GDG](https://x.com/GDGDJALINGO)
 
 
+
+## Lagos
+
+**Genztechies**
+
+* **Description:** A Genz Techies Community
+* **Website:** [GENZ](https://genztechies.com) 
+
 ***
 # How to contrbinute
 * Clone This Repository
