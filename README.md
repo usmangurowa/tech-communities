@@ -9,7 +9,7 @@
 
 
 ***
-#How to contrbinute
+# How to contrbinute
 * Clone This Repository
 * Check out to a new branch
   * For adding new to tech community name your branch "new/[community-name]
